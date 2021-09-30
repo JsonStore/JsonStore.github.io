@@ -1,2 +1,2 @@
-# JsonStore.github.io (deployment)
+# JsonStore.github.io
 website for JSON store
